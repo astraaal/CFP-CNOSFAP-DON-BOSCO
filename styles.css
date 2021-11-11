@@ -1,0 +1,45 @@
+
+
+
+#rectangle {
+    position: absolute;
+    width: 1750px;
+    height: 35px;
+    left: 0px;
+    top: 0px;
+    padding-right: 100px;
+
+
+    background: #4971FF;
+}
+
+
+
+#link {
+    left: 860px;
+    top: 10px;
+    color: white;
+}
+
+
+#logo {
+    position: absolute;
+    width: 172px;
+    height: 75px;
+    left: 171px;
+    top: 40px;
+
+}
+
+#carousel {
+    position: absolute;
+    width: 1750px;
+    height: 367px;
+    left: 0px;
+    top: 127px;
+
+    background: #646464;
+}
+
+
+
