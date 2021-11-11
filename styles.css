@@ -43,3 +43,76 @@
 
 
 
+#rectangle2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+
+    position: static;
+    width: 1750px;
+    height: 148px;
+    left: 0px;
+    top: 143px;
+
+
+    background: #ffffff;
+
+
+    flex: none;
+    order: 2;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+
+
+
+
+#basecard {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+
+    position: static;
+    width: 1750px;
+    height: 148px;
+    left: 0px;
+    top: 143px;
+
+
+    background: #ffffff;
+
+
+    flex: none;
+    order: 2;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+
+
+#imagecard {
+    position: static;
+    width: 353px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+
+  
+    background: #000000;
+
+
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 0px 0px;
+
+}
+
+
+#card {
+    
+}
